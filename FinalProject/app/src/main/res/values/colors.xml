@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ActionBar">#CBFFFFFF</color>
+    <color name="FontWhite">#FFFFFF</color>
+    <color name="FontBlack">#000000</color>
+    <color name="BackButton">#0099B3</color>
+    <color name="ListBackground">#FFFFFF</color>
+    <color name="PictureBackground">#34000000</color>
+    <color name="ClearBlue">#480099b3</color>
+    <color name="ClearWhite">#48ffffff</color>
+</resources>

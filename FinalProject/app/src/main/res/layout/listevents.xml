@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_margin="5dp"
+        android:src="@drawable/games"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:scaleType="centerCrop"
+        android:id="@+id/img_eventbackground"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/txt_title_allevents"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Large Text"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignBottom="@+id/img_eventbackground"
+        android:layout_alignTop="@+id/img_eventbackground"
+        android:layout_alignLeft="@+id/img_eventbackground"
+        android:layout_alignStart="@+id/img_eventbackground"
+        android:textSize="50sp"
+        android:gravity="center_vertical|center_horizontal"
+        android:textAlignment="center"
+        android:textColor="@color/FontWhite"
+        android:textStyle="bold" />
+</RelativeLayout>

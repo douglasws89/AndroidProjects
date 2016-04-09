@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_ae2bd0f2da9c3d7d2057857b2bc746fb11c7f413.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_1bfe4ae6777dad60cb7053205d0bb77eca1e2629.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_e86b6de8552045cf8b93568e684c3192629d20f2.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_790eab9f88686b3e07fda54950665f994613b4ea.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_99db45367e96e6c6957eb2a2d5e9ca0311ee535b.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_8968ef65ee18eca562ea60ecacaa09bbfbb2d21c.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/gson-2.4_ad025ce68fd10c0d44bd614568aca334f0fa7711.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_bbe3b513ce8b8cb4e282f5d04a85e414fe40c4e1.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_aecc9e8d17610f0c0d8f186d64bd7dcdfa05eafc.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_1ab9ca56366831139ecb217c3b5dcc88df457626.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_ce824ab5c90a76ed1d00f4b7a3c93a56ecfdd528.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_6d9d01ed3e09ef683bcc4d8a6a349e675b7afc64.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_195266c24778860c4499306cfb584d0f3c598c46.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta3/97675641051febfee098903cc0eff62f2826e34e/retrofit-2.0.0-beta3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97675641051febfee098903cc0eff62f2826e34e">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta3_877650a9e213bf25f22f26d0a2031bb1f2dcf16f.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_79cf8cfd237ae8403012efc161224d6939b1a65a.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_16da7d4eba2b9f3b1126df8474bce22911649e7b.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_239d446c7852ae0824ba795b38a0ec3a83b6f7f4.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_dddf3bb5ff38ee178e1ea65520fc64aac34752bc.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_3f69129744933abc61eadf2de16b1869af29ee15.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_5e1c94409073d34cd849f5caa94388fa122d38da.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.0-RC1/be7e96331952019f16dc52dce09ab25df29353d7/okhttp-3.0.0-RC1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="be7e96331952019f16dc52dce09ab25df29353d7">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/okhttp-3.0.0-RC1_0d8dae306c8e447fc4536f0fd15f6d863c16cd86.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_ea665d33ba2cccb3226b6c38393d1564f57c3c8f.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta3/8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2/converter-gson-2.0.0-beta3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta3_52bc280bf3f03f400cfe7f709bb9b8a6fb7c6f9b.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/okio-1.6.0_0d82098099f498d407ad70e7519615e039a968d1.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_7b161cb6b4d921450a2e3bcc1b2a66b1220638c4.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_1acba21502e5b1ae0873a6b6214b036a70dfe93a.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_95273198f89302fcb1a1b19a7110ceec60f90c86.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_5ab65db7a5329d2389fbc72b5af8fa0d868db006.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_a07b257cfdddbe94f2013a5abeb5cdce5080ac8c.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_18d8cc414b40f27403313aa0ea7beab246df4cd4.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_0d9427df0a88e3334d0a38b66d08e768d5d5db3b.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_edab1767a6b04ce691caa2fa279c4952d76196eb.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_3db2b1628a8d4cdd8c5f15d7faaf6d731b848d02.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_2096963be46e6853484fc4368ebde5484a32df84.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.0.0-RC1/83fed2e3554b8bacf8209bc22b62d76d4f674533/logging-interceptor-3.0.0-RC1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="83fed2e3554b8bacf8209bc22b62d76d4f674533">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.0.0-RC1_41524285248d220e3cd1ca6c143f1adceb4c9498.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.4.0_4b45b12f54f7fb158ad72a26cd2ac99152f98fdb.jar" />
+    </item>
+    <item
+        jar="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/douglasws89/Desktop/weeat/finalv2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_47982cd45a0d2bb3e2252b136b3ad36d57fa4e82.jar" />
+    </item>
+
+</items>

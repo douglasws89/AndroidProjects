@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name= "android:windowBackground">@color/FontWhite</item>
+    </style>
+
+    <style name="Background" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowBackground">@drawable/login</item>
+    </style>
+    
+    <style name="AiryBackground" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowBackground">@drawable/bkgrd</item>
+    </style>
+
+    <style name="PaperBackground" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowBackground">@drawable/background</item>
+    </style>
+
+</resources>

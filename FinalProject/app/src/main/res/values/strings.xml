@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Gather</string>
+    <string-array name="events">
+        <item>All Events</item>
+        <item>Bars</item>
+        <item>Club/Party</item>
+        <item>Food/Restaurants</item>
+        <item>Outdoors</item>
+        <item>Fun/Games</item>
+        <item>Rides</item>
+        <item>Other Events</item>
+    </string-array>
+    <string name="login">SIGN IN</string>
+    <string name="signup">Sign up now</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="bgimage">background image</string>
+    <string name="retype">Retype Password</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="bio">Bio</string>
+    <string name="register">Register</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="newevent">Create New Event</string>
+    <string name="join">+ Join</string>
+    <string name="refresh">Refresh</string>
+    <string name="title">Title of the Event</string>
+    <string name="location">Location</string>
+    <string name="Description">Description</string>
+    <string name="date">Date</string>
+    <string name="create">Create</string>
+    <string name="AddPicture">add picture</string>
+    <string name="comma"> , </string>
+    <string name="msg">Type a message...</string>
+    <string name="eventitle">Event Title</string>
+    <string name="eventloc">Event Location</string>
+    <string name="joindesc">Description of the event</string>
+    <string name="desc">Description:</string>
+    <string name="time">Time</string>
+</resources>
